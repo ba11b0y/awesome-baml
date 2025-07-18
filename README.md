@@ -2,7 +2,8 @@
 
 A curated list of projects and resources using BAML
 
-If you've built something cool please read [this](CONTRIBUTING.md) and add your project to the list!
+If you've built something cool using BAML, I'll be happy to add it to the list!
+Please read [this](CONTRIBUTING.md) and send in a PR.
 
 #### Agents
 
