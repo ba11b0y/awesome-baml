@@ -1,6 +1,6 @@
 # awesome-baml
 
-A curated list of projects and resources using BAML
+A curated list of projects and resources using [BAML](https://github.com/BoundaryML/baml/)
 
 If you've built something cool using BAML, I'll be happy to add it to the list!
 
